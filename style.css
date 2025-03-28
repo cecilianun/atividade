@@ -1,0 +1,23 @@
+a{
+    color: purple;
+    text-decoration: none;
+    font-size: 35px;
+    margin: 10px;
+}
+
+a:hover{
+    color: olivedrab;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: rgb(0, 0, 119);
+}
+
+a:active{
+    color: brown;
+}
+
+a:visited:hover{
+    color: rgb(185, 202, 28);
+}
